@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 def Linear(x): # model / function
 
-    y = 3*x-2        # r = rate of growth, x = population size
+    y = 3*x-2        # function y
     return y
 
 
